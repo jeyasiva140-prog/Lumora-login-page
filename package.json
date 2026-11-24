@@ -1,8 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "loginfrontend",
+  "name": "lumora-login-page",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -25,14 +24,5 @@
     "eslint-plugin-react-refresh": "^0.5.7",
     "globals": "^17.13.0",
     "vite": "^8.3.4"
-=======
-  "name": "beginner-login-project",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "install-all": "npm install --prefix server && npm install --prefix client",
-    "server": "npm start --prefix server",
-    "client": "npm run dev --prefix client"
->>>>>>> ff0b761fff5eeb650edf43bea4fc33923c24cca0
   }
 }
